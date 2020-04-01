@@ -1,2 +1,2 @@
 # Hamiltonian-EulerianPath
-:footprints: Solution for Hamiltonian cycle problem &amp; Eulerian trail
+:footprints: Solution for Hamiltonian cycle &amp; Eulerian trail problem
